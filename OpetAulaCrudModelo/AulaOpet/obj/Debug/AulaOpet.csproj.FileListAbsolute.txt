@@ -1,0 +1,74 @@
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\csc.exe
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\vbc.exe
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\VBCSCompiler.exe
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\AulaOpet.dll.config
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\AulaOpet.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\AulaOpet.pdb
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Helpers.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Mvc.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Razor.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.Razor.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Razor.xml
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.xml
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.Razor.xml
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Helpers.xml
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Mvc.xml
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\obj\Debug\AulaOpet.csprojResolveAssemblyReference.cache
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\obj\Debug\AulaOpet.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\obj\Debug\AulaOpet.pdb
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\EntityFramework.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\EntityFramework.SqlServer.dll
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\EntityFramework.xml
+C:\Users\IwaCham\Documents\WorkSpaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\EntityFramework.SqlServer.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\csc.exe
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\vbc.exe
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\AulaOpet.dll.config
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\AulaOpet.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\AulaOpet.pdb
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\EntityFramework.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\EntityFramework.SqlServer.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Helpers.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Mvc.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Razor.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\EntityFramework.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\EntityFramework.SqlServer.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Razor.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Helpers.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\bin\System.Web.Mvc.xml
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\obj\Debug\AulaOpet.dll
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\obj\Debug\AulaOpet.pdb
+C:\Users\Tiago Iwamoto\Desktop\Workspaces\CSharp\OpetAulaCrudModelo\AulaOpet\obj\Debug\AulaOpet.csprojResolveAssemblyReference.cache
