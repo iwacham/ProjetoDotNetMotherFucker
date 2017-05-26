@@ -118,7 +118,8 @@ namespace AulaOpet.Controllers
         {
             try
             {
-                Produto produto = context.Produtos.Find(id); context.Produtos.Remove(produto);
+                Produto produto = context.Produtos.Find(id); 
+                context.Produtos.Remove(produto);
                 context.SaveChanges(); TempData["Message"] = "Produto	" + produto.Nome.ToUpper()
                                     + "	foi	removido"; return RedirectToAction("Index");
             }
